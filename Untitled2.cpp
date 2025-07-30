@@ -27,7 +27,7 @@ int main(){
 		 if(count0>(n*m)/2){
 		 	printf("sparce");
 		 }else{
-		 	printf("dence");
+		 	printf("dense");
 		 }
 	 
  return 0;
